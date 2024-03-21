@@ -1,0 +1,45 @@
+/* Custom CSS Styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    background-color: #343a40 !important;
+  }
+  
+  .navbar-brand {
+	  font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #ffffff !important;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #ffffff !important;
+  }
+  
+  #home {
+    background-color: #f8f9fa;
+  }
+  .img-fluid {
+    height: 5%;
+    width: 5%;
+  }
+  
+  #about {
+    background-color: #ffffff;
+  }
+  
+  #services {
+    background-color: #f8f9fa;
+  }
+  
+  #portfolio {
+    background-color: #ffffff;
+  }
+  
+  footer {
+    color: #ffffff;
+  }
+  
